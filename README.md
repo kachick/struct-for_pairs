@@ -1,6 +1,9 @@
 struct-for_pairs
 ====================
 
+Description
+-----------
+
 Struct will be construct from key-value pairs.
 
 Features
@@ -43,6 +46,11 @@ Install
 ```bash
 $ gem install struct-for_pairs
 ```
+
+Build Status
+------------
+
+[![Build Status](https://secure.travis-ci.org/kachick/struct-for_pairs.png)](http://travis-ci.org/kachick/struct-for_pairs)
 
 Link
 ----
