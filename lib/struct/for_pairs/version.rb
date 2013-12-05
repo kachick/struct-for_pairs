@@ -1,3 +1,5 @@
+# coding: us-ascii
+
 class Struct
   
   module For_Pairs
