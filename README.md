@@ -1,15 +1,17 @@
 struct-for_pairs
 ====================
 
+[![Build Status](https://secure.travis-ci.org/kachick/struct-for_pairs.png)](http://travis-ci.org/kachick/struct-for_pairs)
+[![Gem Version](https://badge.fury.io/rb/struct-for_pairs.png)](http://badge.fury.io/rb/struct-for_pairs)
+
 Description
 -----------
 
-Struct will be construct from key-value pairs.
+Struct will be able to constructed from key-value pairs.
 
 Features
 --------
 
-* Not "OpenStruct"
 * Pure Ruby :)
 
 Usage
@@ -47,14 +49,10 @@ Install
 $ gem install struct-for_pairs
 ```
 
-Build Status
-------------
-
-[![Build Status](https://secure.travis-ci.org/kachick/struct-for_pairs.png)](http://travis-ci.org/kachick/struct-for_pairs)
-
 Link
 ----
 
+* [Home](http://kachick.github.com/struct-for_pairs)
 * [code](https://github.com/kachick/struct-for_pairs)
 * [API](http://kachick.github.com/struct-for_pairs/yard/frames.html)
 * [issues](https://github.com/kachick/struct-for_pairs/issues)
