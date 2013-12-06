@@ -38,7 +38,7 @@ foobar.bar #=> 456
 Requirements
 ------------
 
-* Ruby - [1.9.2 or later](http://travis-ci.org/#!/kachick/struct-for_pairs)
+* [Ruby 1.9.3 or later](http://travis-ci.org/#!/kachick/struct-for_pairs)
 
 Install
 -------
