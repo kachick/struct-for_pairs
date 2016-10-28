@@ -37,6 +37,10 @@ foobar.foo #=> 123
 foobar.bar #=> 456
 ```
 
+### Alases
+
+* `from_pairs`
+
 Requirements
 ------------
 
@@ -62,6 +66,6 @@ Link
 License
 -------
 
-The MIT X11 License  
-Copyright (c) 2012 Kenichi Kamiya  
+The MIT X11 License
+Copyright (c) 2012 Kenichi Kamiya
 See MIT-LICENSE for further details.

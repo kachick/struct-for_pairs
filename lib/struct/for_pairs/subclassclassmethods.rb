@@ -13,7 +13,8 @@ class Struct; module For_Pairs
         end
       }
     end
-  
+    alias_method :from_pairs, :for_pairs
+
   end
 
 end; end
