@@ -4,7 +4,7 @@ rvm:
   - 2.3
   - 2.2
   - ruby-head
-  - rbx-2
+  - rbx-3.19
   - jruby-head
 
 before_install:
