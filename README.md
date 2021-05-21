@@ -1,8 +1,14 @@
 struct-for_pairs
 ====================
 
-[![Build Status](https://secure.travis-ci.org/kachick/struct-for_pairs.png)](http://travis-ci.org/kachick/struct-for_pairs)
-[![Gem Version](https://badge.fury.io/rb/struct-for_pairs.png)](http://badge.fury.io/rb/struct-for_pairs)
+* ***This repository is archived***
+* ***No longer maintained***
+* ***All versions have been yanked from https://rubygems.org for releasing valuable namespace for others***
+
+This gem is needless in the now since Ruby officially supporting `keyword_init`
+
+* https://bugs.ruby-lang.org/issues/11925
+* https://bugs.ruby-lang.org/issues/9209
 
 Description
 -----------
@@ -44,24 +50,7 @@ foobar.bar #=> 456
 Requirements
 ------------
 
-* [Ruby 1.9.3 or later](http://travis-ci.org/#!/kachick/struct-for_pairs)
-
-Install
--------
-
-```bash
-$ gem install struct-for_pairs
-```
-
-Link
-----
-
-* [Home](http://kachick.github.com/struct-for_pairs)
-* [code](https://github.com/kachick/struct-for_pairs)
-* [API](http://kachick.github.com/struct-for_pairs/yard/frames.html)
-* [issues](https://github.com/kachick/struct-for_pairs/issues)
-* [CI](http://travis-ci.org/#!/kachick/struct-for_pairs)
-* [gem](https://rubygems.org/gems/struct-for_pairs)
+* Ruby 1.9.3 or later
 
 License
 -------

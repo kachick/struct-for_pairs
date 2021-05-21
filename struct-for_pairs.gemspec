@@ -5,7 +5,6 @@ require File.expand_path('../lib/struct/for_pairs/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.description   = %q{Struct will be construct from key-value pairs.}
   gem.summary       = gem.description.dup
-  gem.homepage      = 'http://kachick.github.com/struct-for_pairs'
   gem.license       = 'MIT'
   gem.name          = 'struct-for_pairs'
   gem.version       = Struct::For_Pairs::VERSION.dup
