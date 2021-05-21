@@ -55,6 +55,6 @@ Requirements
 License
 -------
 
-The MIT X11 License
-Copyright (c) 2012 Kenichi Kamiya
+The MIT X11 License  
+Copyright (c) 2012 Kenichi Kamiya  
 See MIT-LICENSE for further details.
